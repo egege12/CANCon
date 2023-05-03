@@ -1,0 +1,5 @@
+module CANCon
+typeinfo appCANCon.qmltypes
+prefer :/CANCon/
+Main 1.0 Main.qml
+
